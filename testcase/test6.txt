@@ -1,0 +1,6 @@
+INSERT x number
+INSERT y number
+BEGIN
+INSERT x string
+ASSIGN x 15
+END
